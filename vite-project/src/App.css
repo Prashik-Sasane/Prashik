@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Biennale Black';
+  src: url('./assets/Demo_Fonts/Fontspring-DEMO-biennale-black.otf') format('otf');
+  font-weight: 900;
+  font-style: normal;
+}
